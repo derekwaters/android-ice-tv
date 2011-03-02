@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/menu_settings" android:title="@string/menu_settings" android:icon="@android:drawable/ic_menu_preferences"/>
+<item android:id="@+id/menu_refresh" android:title="@string/menu_refresh" android:icon="@android:drawable/ic_menu_revert"/>
+<item android:id="@+id/menu_filters" android:title="@string/menu_filters" android:icon="@android:drawable/ic_menu_search"/>
+<item android:id="@+id/menu_movie_view" android:title="@string/menu_movie_view" android:icon="@android:drawable/ic_menu_search"/>
+</menu>

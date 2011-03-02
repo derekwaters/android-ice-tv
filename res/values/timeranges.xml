@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="timeranges">
+			<item>No Time Filter</item>
+	        <item>Early (12am-6am)</item>
+	        <item>Morning (6am-12pm)</item>
+	        <item>Afternoon (12pm-6pm)</item>
+	        <item>Evening (6pm-12am)</item>
+	    </string-array>
+</resources>

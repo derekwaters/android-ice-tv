@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="movie_list_context_view_imdb">View On IMDB</string>
+    <string name="movie_list_context_show_details">Show Details</string>
+    <string name="menu_settings">Settings</string>
+    <string name="app_name">IceTV</string>
+   <string name="downloading_tv_guide">Downloading TV Guide...</string>
+   <string name="parsing_tv_guide">Loading TV Guide...</string>
+<string name="menu_refresh">Refresh</string>
+<string name="menu_filters">Filter</string>
+<string name="menu_movie_view">Movie View</string>
+<string name="program_view_record_episode">Record Program</string>
+<string name="program_view_record_series">Record Series</string>
+<string name="program_view_add_favourite">Add Favourite</string>
+<string name="series_record_device">Device</string>
+<string name="series_record_network">Network</string>
+<string name="series_record_time">Time</string>
+<string name="series_record_record">Record</string>
+<string name="series_record_quality">Quality</string>
+<string name="series_record_limit">Limit</string>
+
+<string name="series_record_network_any">Any Network</string>
+<string name="series_record_network_abc">ABC</string>
+<string name="series_record_network_nine">Nine</string>
+<string name="series_record_network_sbs">SBS</string>
+<string name="series_record_network_seven">Seven</string>
+<string name="series_record_network_ten">Ten</string>
+
+<string name="series_record_time_any">Any Time</string>
+<string name="series_record_time_this">This Time Only</string>
+
+<string name="series_record_record_first">First runs only</string>
+<string name="series_record_record_all">First runs and repeats</string>
+
+<string name="series_record_quality_pref_high">Prefer high def</string>
+<string name="series_record_quality_only_high">Only high def</string>
+<string name="series_record_quality_pref_standard">Prefer standard def</string>
+<string name="series_record_quality_only_standard">Only standard def</string>
+
+<string name="series_record_limit_1">Record 1 per day</string>
+<string name="series_record_limit_2">Record 2 per day</string>
+<string name="series_record_limit_3">Record 3 per day</string>
+<string name="series_record_limit_4">Record 4 per day</string>
+<string name="series_record_limit_5">Record 5 per day</string>
+<string name="series_record_limit_all">Record all</string>
+
+<string name="series_record_record_btn">Record Series</string>
+<string name="series_record_cancel_btn">Cancel</string>
+
+
+
+<string name="guide_filter_title">IceTV Guide Filters</string>
+<string name="guide_filter_station">Station</string>
+<string name="guide_filter_time">Time Range</string>
+<string name="guide_filter_genre">Genre</string>
+<string name="guide_filter_filter_btn">Apply Filters</string>
+<string name="guide_filter_all_stations">Show All Stations</string>
+<string name="guide_filter_text">Title</string>
+<string name="guide_filter_genre_no_filter">No Genre Filter</string>
+<string name="retrieving_movie_information">Retrieving Movie Information</string>
+</resources>
